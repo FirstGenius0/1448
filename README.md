@@ -1,4 +1,4 @@
-# Git is ugly
+# Git Bash is ugly
 Git config --global user.name ""
 Git config --global user.email ""
 Cd:\
