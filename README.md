@@ -1,4 +1,4 @@
-# Git Bash 
+# LL
 Git config --global user.name ""
 Git config --global user.email ""
 Cd:\
