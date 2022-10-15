@@ -59,3 +59,4 @@ git rm -cached fileName.txt - перестать отслеживать файл
 git checkout -b ahahaaha - создание и переключение на ветку ahahaaha
 
 mkdir newFOLDER_AHAHA - создание папки в текущей директории
+
