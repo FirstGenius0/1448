@@ -1,4 +1,4 @@
-# Git Bash is ugly
+# Git Bash 
 Git config --global user.name ""
 Git config --global user.email ""
 Cd:\
