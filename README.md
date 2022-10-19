@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# LL
-Git config --global user.name ""
-Git config --global user.email ""
-Cd:\
-pwd
-Git init
-Git add .
-Git Branch
-Git checkout
-=======
 # Some useful stuff for work
 
 Важные команды для начала работы:
