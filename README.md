@@ -7,4 +7,3 @@ Git init
 Git add .
 Git Branch
 Git checkout
-Git remote
